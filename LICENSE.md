@@ -1,4 +1,4 @@
-# 
+# Free YNAB workflow for Mac OS | Elite YNAB workflow for PC Windows. Featuring investment tracking and real-time tracking — optimized for maximum performance on every platform.
 
 
 
